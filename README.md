@@ -4,7 +4,10 @@
 
 ### `npm install`
 
-3. Then start your React Application 
+3. Add SQL file
+Import the emp_dashboard.sql file to the database which is in the repository
+
+4. Then start your React Application 
 ## Available Scripts
 
 In the project directory, you can run:
